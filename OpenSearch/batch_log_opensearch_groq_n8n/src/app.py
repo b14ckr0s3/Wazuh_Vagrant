@@ -65,8 +65,8 @@ Processing requirements:
 - If any information is missing, use "unknown" or null  
 - Do not fabricate details if logs do not provide them  
 - Respond exactly once with valid JSON only
-Mandatory output JSON schema:
 
+Mandatory output JSON schema:
 ```json
 {
   "alert_level": "CRITICAL | HIGH | MEDIUM | LOW | INFO",
